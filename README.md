@@ -28,13 +28,6 @@ This portfolio application was built using React and is designed to showcase my 
       <br/>
       <br/> -->
 
-      <!-- <a href="https://michaelyeates.co.uk">View Live Website</a>
-      ·
-      <!-- <a href="https://github.com/mdyeates/my-portfolio/issues">Report Bug</a> -->
-      ·
-      <!-- <a href="https://github.com/mdyeates/my-portfolio/issues">Request Feature</a> -->
-    </p> -->
-
   <!-- </div> -->
 
   <!-- TABLE OF CONTENTS -->
