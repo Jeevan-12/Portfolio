@@ -1,0 +1,42 @@
+[
+  {
+    "title": "URL Shortner",
+    "image": "./projectImages/url.jpg",
+    "description": "It shortens the lengthy URL from an API that is integrated.",
+    "technologies": "JavaScript | React.js | Material-UI",
+    "github": "https://github.com/Jeevan-12/URL-Shortner",
+    "deployed": "https://urlshortnerjeeva.netlify.app",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "Weather",
+    "image": "./projectImages/weather1.png",
+    "technologies": "React.js | HTML | CSS",
+    "description": "It tells the current weather condition of any city around the world",
+    "github": "https://github.com/Jeevan-12/weather_app",
+    "deployed": "https://weather-app-jeevan.netlify.app",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "E-commerce website",
+    "image": "./projectImages/e-commerce.png",
+    "technologies": "JS | Node | Bootstrap | ",
+    "description": "This is a basic fully functional E-commerce website.",
+    "github": "https://github.com/mdyeates/team-dashboard",
+    "deployed": "https://drive.google.com/file/d/1_atUXTM-L9r4NccsrPaaWqPyNu37ftwH/view",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "CRUD Application",
+    "image": "./projectImages/quiz.png",
+    "technologies": "JS | HTML | CSS",
+    "description": "A quiz app on the fundamentals of JavaScript. There are 5 randomly selected multiple-choice questions and the user will have a time limit of 50 seconds. The remaining time will determine their score at the end. The user will be penalised by 10 seconds for every incorrect answer.",
+    "github": "https://github.com/mdyeates/coding-quiz",
+    "deployed": "https://mdyeates.github.io/coding-quiz/",
+    "bgcolor": "#f85781",
+    "id": "4"
+  }
+]
