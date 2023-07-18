@@ -24,8 +24,8 @@
     "image": "./projectImages/e-commerce.png",
     "technologies": "JS | Node | Bootstrap | ",
     "description": "This is a basic fully functional E-commerce website.",
-    "github": "https://github.com/mdyeates/team-dashboard",
-    "deployed": "https://drive.google.com/file/d/1_atUXTM-L9r4NccsrPaaWqPyNu37ftwH/view",
+    "github": "https://github.com/Jeevan-12?tab=repositories",
+    "deployed": "",
     "bgcolor": "#6c4bf4",
     "id": "3"
   },
@@ -33,9 +33,9 @@
     "title": "CRUD Application",
     "image": "./projectImages/quiz.png",
     "technologies": "JS | HTML | CSS",
-    "description": "A quiz app on the fundamentals of JavaScript. There are 5 randomly selected multiple-choice questions and the user will have a time limit of 50 seconds. The remaining time will determine their score at the end. The user will be penalised by 10 seconds for every incorrect answer.",
-    "github": "https://github.com/mdyeates/coding-quiz",
-    "deployed": "https://mdyeates.github.io/coding-quiz/",
+    "description": "The application in which we can perform the CRUD operation we can creat the user and we can edit it,read it and also we can delete it",
+    "github": "https://github.com/Jeevan-12?tab=repositories",
+    "deployed": "",
     "bgcolor": "#f85781",
     "id": "4"
   }

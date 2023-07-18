@@ -1,4 +1,4 @@
-import aboutMe from '../images/aboutme.jpg';
+// import aboutMe from '../images/aboutme.jpg';
 import { motion } from 'framer-motion';
 import SocialIcons from '../components/SocialIcons';
 import { useInView } from 'react-intersection-observer';
@@ -47,7 +47,7 @@ const AboutMe = ({
           animate={inView ? { x: 0, opacity: 1 } : { x: '-10vw', opacity: 0 }}
           transition={{ duration: 0.4, ease: 'easeInOut' }}
         >
-          <img src={aboutMe} alt={name} />
+          {/* <img src={aboutMe} alt={name} /> */}
         </motion.div>
         <motion.div
           className="personalInfo col-12 col-lg-8"
